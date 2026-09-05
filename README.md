@@ -1,4 +1,5 @@
-# MLOps Iris Classifier Version A + B (resolved)
+# MLOps Iris Classifier
+>>>>>>> 48eb463 (chore: initialize project structure with baseline training script)
 
 A sample ML project used to demonstrate Git-based version control
 workflows in an MLOps context.
