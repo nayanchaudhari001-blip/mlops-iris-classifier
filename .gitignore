@@ -21,3 +21,7 @@ mlruns/
 # IDE
 .vscode/
 .idea/
+
+# Feast Practical 5
+practical5_feast/.venv-feast/
+practical5_feast/**/data/*.db
