@@ -1,0 +1,4 @@
+Method,CV F1 Macro,Test Accuracy
+baseline_decision_tree,0.9663367569249923,0.9
+grid_search_random_forest,0.9663367569249923,0.9666666666666667
+random_search_random_forest,0.9663367569249923,0.9666666666666667
