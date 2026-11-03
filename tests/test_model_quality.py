@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 
-MIN_ACCEPTABLE_ACCURACY = 0.90
+MIN_ACCEPTABLE_ACCURACY = 0.999
 
 
 def load_dataset():
