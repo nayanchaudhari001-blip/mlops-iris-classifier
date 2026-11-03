@@ -1,5 +1,4 @@
 import mlflow
-import pandas as pd
 
 
 def get_runs():
